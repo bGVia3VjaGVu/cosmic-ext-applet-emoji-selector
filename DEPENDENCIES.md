@@ -1,10 +1,9 @@
 # Dependencies
 
+For non-COSMIC distrobutions, see [the `cosmic-epoch` dependancies](https://github.com/pop-os/cosmic-epoch?tab=readme-ov-file#setup-on-distributions-without-packaging-of-cosmic-components).
 
-- [cosmic-epoch](https://github.com/pop-os/cosmic-epoch?tab=readme-ov-file#setup-on-distributions-without-packaging-of-cosmic-components)
+Here are a few for reference (some may not be required):
 
-
-(some may not be required)
 ```
 Build-Depends:
   debhelper (>= 11),
